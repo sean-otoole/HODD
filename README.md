@@ -18,5 +18,5 @@ Note: This repository will not function independently, as the original datasets 
 
 In the newsletter I select a disease and use publicly available datasets to propose potential treatments. This is a personal project and not connected to any organization.
 
-# If you would like to follow the newsletter you can do so [here](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7270513081846267905)
+If you would like to follow the newsletter you can do so [here](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7270513081846267905)
 

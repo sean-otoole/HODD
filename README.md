@@ -1,10 +1,10 @@
-## Home Office Drug Design Newsletter
+# Home Office Drug Design Newsletter
 
 This repository contains code and analyses for my newsletter on RNA therapeutics and computational drug design. The newsletter explores the application of AI-driven methods to identify therapeutic targets using single-cell sequencing data from human patients.
 
 Note: The code in this repository will not function independently, as the original datasets are not included, however, they are available publicly.
 
-# Project Organization
+## Project Organization
 
 ```
 📂 PD-PDTx_pipeline/                            # Pipeline for the Parkinson's Therapeutics Project
@@ -15,7 +15,7 @@ Note: The code in this repository will not function independently, as the origin
 📄 README.md                                    # Project description and repository guide
 ```
 
-# About the Newsletter
+## About the Newsletter
 
 I select a disease and use publicly available datasets to propose potential treatments. This is a personal project and not connected to any organization.
 

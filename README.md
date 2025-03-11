@@ -7,8 +7,8 @@ Note: The code in this repository will not function independently, as the origin
 # Project Organization
 
 ```
-📂 PD-PDTx_pipeline/                              # Pipeline for the Parkinson's Therapeutics Project
-├── 📄 PDTx_01_DataPrep_DA.ipynb               # Prepares and processes input single-cell sequencing data
+📂 PD-PDTx_pipeline/                            # Pipeline for the Parkinson's Therapeutics Project
+├── 📄 PDTx_01_DataPrep_DA.ipynb                # Prepares and processes input single-cell sequencing data
 ├── 📄 PDTx_02_Tokenization_DA.ipynb            # Tokenizes the dopaminergic subset for fine-tuning
 📂 deprecated/                                  # Contains scripts and files no longer in use
 📂 figures/                                     # Stores generated visual summaries and figures

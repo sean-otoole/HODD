@@ -10,6 +10,8 @@ Note: The code in this repository will not function independently, as the origin
 📂 PD-PDTx_pipeline/                            # Pipeline for the Parkinson's Therapeutics Project
 ├── 📄 PDTx_01_DataPrep_DA.ipynb                # Prepares and processes input single-cell sequencing data
 ├── 📄 PDTx_02_Tokenization_DA.ipynb            # Tokenizes the dopaminergic subset for fine-tuning
+├── 📄 PDTx_03_FineTuning_DA.ipynb              # Fine-tuning of the Geneformer foundation model
+├── 📄 PDTx_04_Pertubration_DA.ipynb            # Conducting a perturbation analysis with the fine-tuned model
 📂 deprecated/                                  # Contains scripts and files no longer in use
 📂 figures/                                     # Stores generated visual summaries and figures
 📄 README.md                                    # Project description and repository guide

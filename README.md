@@ -1,4 +1,4 @@
-## 🟢 Home Office Drug Design Newsletter 🟡
+## 🟢 Home Office Drug Design Newsletter 🟢
 
 This repository contains code and analyses for my newsletter which explores computational methods that are useful in the biotechnology and pharma space. Currently, the newsletter is exploring the application of AI-driven methods to identify therapeutic targets using single-cell sequencing data from human patients.
 
